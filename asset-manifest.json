@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/headhunter-full/static/css/main.940c2cde.chunk.css",
+    "main.js": "/headhunter-full/static/js/main.30f8b4a2.chunk.js",
+    "main.js.map": "/headhunter-full/static/js/main.30f8b4a2.chunk.js.map",
+    "runtime-main.js": "/headhunter-full/static/js/runtime-main.1492b786.js",
+    "runtime-main.js.map": "/headhunter-full/static/js/runtime-main.1492b786.js.map",
+    "static/css/2.4c4477be.chunk.css": "/headhunter-full/static/css/2.4c4477be.chunk.css",
+    "static/js/2.bfce8e22.chunk.js": "/headhunter-full/static/js/2.bfce8e22.chunk.js",
+    "static/js/2.bfce8e22.chunk.js.map": "/headhunter-full/static/js/2.bfce8e22.chunk.js.map",
+    "index.html": "/headhunter-full/index.html",
+    "precache-manifest.eb293b08b63377f76aa5836d2dd41799.js": "/headhunter-full/precache-manifest.eb293b08b63377f76aa5836d2dd41799.js",
+    "service-worker.js": "/headhunter-full/service-worker.js",
+    "static/css/2.4c4477be.chunk.css.map": "/headhunter-full/static/css/2.4c4477be.chunk.css.map",
+    "static/css/main.940c2cde.chunk.css.map": "/headhunter-full/static/css/main.940c2cde.chunk.css.map",
+    "static/js/2.bfce8e22.chunk.js.LICENSE.txt": "/headhunter-full/static/js/2.bfce8e22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1492b786.js",
+    "static/css/2.4c4477be.chunk.css",
+    "static/js/2.bfce8e22.chunk.js",
+    "static/css/main.940c2cde.chunk.css",
+    "static/js/main.30f8b4a2.chunk.js"
+  ]
+}
