@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/headhunter-full/static/css/main.b494ca62.chunk.css",
-    "main.js": "/headhunter-full/static/js/main.6903fac2.chunk.js",
-    "main.js.map": "/headhunter-full/static/js/main.6903fac2.chunk.js.map",
+    "main.js": "/headhunter-full/static/js/main.22bf3c55.chunk.js",
+    "main.js.map": "/headhunter-full/static/js/main.22bf3c55.chunk.js.map",
     "runtime-main.js": "/headhunter-full/static/js/runtime-main.1492b786.js",
     "runtime-main.js.map": "/headhunter-full/static/js/runtime-main.1492b786.js.map",
     "static/css/2.4c4477be.chunk.css": "/headhunter-full/static/css/2.4c4477be.chunk.css",
     "static/js/2.bfce8e22.chunk.js": "/headhunter-full/static/js/2.bfce8e22.chunk.js",
     "static/js/2.bfce8e22.chunk.js.map": "/headhunter-full/static/js/2.bfce8e22.chunk.js.map",
     "index.html": "/headhunter-full/index.html",
-    "precache-manifest.020cc86d01bc137c2487062db8976021.js": "/headhunter-full/precache-manifest.020cc86d01bc137c2487062db8976021.js",
+    "precache-manifest.6499d9c6ebc3d4cc4e4249b93ccf9a7f.js": "/headhunter-full/precache-manifest.6499d9c6ebc3d4cc4e4249b93ccf9a7f.js",
     "service-worker.js": "/headhunter-full/service-worker.js",
     "static/css/2.4c4477be.chunk.css.map": "/headhunter-full/static/css/2.4c4477be.chunk.css.map",
     "static/css/main.b494ca62.chunk.css.map": "/headhunter-full/static/css/main.b494ca62.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.4c4477be.chunk.css",
     "static/js/2.bfce8e22.chunk.js",
     "static/css/main.b494ca62.chunk.css",
-    "static/js/main.6903fac2.chunk.js"
+    "static/js/main.22bf3c55.chunk.js"
   ]
 }
