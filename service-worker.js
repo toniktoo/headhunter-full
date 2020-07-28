@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/headhunter-full/precache-manifest.eb293b08b63377f76aa5836d2dd41799.js"
+  "/headhunter-full/precache-manifest.020cc86d01bc137c2487062db8976021.js"
 );
 
 self.addEventListener('message', (event) => {
