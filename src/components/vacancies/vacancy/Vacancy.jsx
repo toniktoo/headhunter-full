@@ -13,7 +13,7 @@ const Item = styled.div`
 `;
 
 const ItemMain = styled.div`
-  display: flex;  
+  display: flex;
   align-items: center;
   justify-content: flex-start;
 `;
@@ -141,7 +141,7 @@ export const Vacancy = ({ item }) => {
         <ButtonSendResume
           className="btn__send_resume"
           onClick={handleSendResume}
-          disabled={!!(relations && relations[0])}
+          disabled={!!(relations && relations[0]) || accessToken === null}
         >
           Отправить резюме
         </ButtonSendResume>

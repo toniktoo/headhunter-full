@@ -6,7 +6,7 @@ import { message } from 'antd';
 class Queries {
   constructor() {
     this.url_api_hh = 'https://api.hh.ru';
-    this.url_backend = 'http://localhost:8080';
+    this.url_backend = 'https://new-hh.herokuapp.com/';
     axios.interceptors.response.use(this.handleSuccess, this.handleError);
   }
 
