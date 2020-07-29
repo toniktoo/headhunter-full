@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/headhunter-full/static/css/main.f8948c5e.chunk.css",
-    "main.js": "/headhunter-full/static/js/main.30098c1e.chunk.js",
-    "main.js.map": "/headhunter-full/static/js/main.30098c1e.chunk.js.map",
+    "main.css": "/headhunter-full/static/css/main.737f6792.chunk.css",
+    "main.js": "/headhunter-full/static/js/main.b429d02e.chunk.js",
+    "main.js.map": "/headhunter-full/static/js/main.b429d02e.chunk.js.map",
     "runtime-main.js": "/headhunter-full/static/js/runtime-main.1492b786.js",
     "runtime-main.js.map": "/headhunter-full/static/js/runtime-main.1492b786.js.map",
     "static/css/2.4c4477be.chunk.css": "/headhunter-full/static/css/2.4c4477be.chunk.css",
     "static/js/2.bfce8e22.chunk.js": "/headhunter-full/static/js/2.bfce8e22.chunk.js",
     "static/js/2.bfce8e22.chunk.js.map": "/headhunter-full/static/js/2.bfce8e22.chunk.js.map",
     "index.html": "/headhunter-full/index.html",
-    "precache-manifest.cdca59be571fde394dc34efacf597486.js": "/headhunter-full/precache-manifest.cdca59be571fde394dc34efacf597486.js",
+    "precache-manifest.6ae4fc9b3b0ab9f8631378e22bd0210e.js": "/headhunter-full/precache-manifest.6ae4fc9b3b0ab9f8631378e22bd0210e.js",
     "service-worker.js": "/headhunter-full/service-worker.js",
     "static/css/2.4c4477be.chunk.css.map": "/headhunter-full/static/css/2.4c4477be.chunk.css.map",
-    "static/css/main.f8948c5e.chunk.css.map": "/headhunter-full/static/css/main.f8948c5e.chunk.css.map",
+    "static/css/main.737f6792.chunk.css.map": "/headhunter-full/static/css/main.737f6792.chunk.css.map",
     "static/js/2.bfce8e22.chunk.js.LICENSE.txt": "/headhunter-full/static/js/2.bfce8e22.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1492b786.js",
     "static/css/2.4c4477be.chunk.css",
     "static/js/2.bfce8e22.chunk.js",
-    "static/css/main.f8948c5e.chunk.css",
-    "static/js/main.30098c1e.chunk.js"
+    "static/css/main.737f6792.chunk.css",
+    "static/js/main.b429d02e.chunk.js"
   ]
 }
