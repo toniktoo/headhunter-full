@@ -13,13 +13,13 @@ code {
 }
 
 /* В модалке вакансии убираем отступы( приходит html с сервера) */
-.foUvui * {
+.hRBsWH * {
   font-size: 14px;
   margin: 0;
 }
 
 @media (max-width: 1400px) {
-  .foUvui * {
+  .hRBsWH * {
     font-size: 12px;
     margin: 0;
   }
