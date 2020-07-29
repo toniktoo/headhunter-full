@@ -9,6 +9,9 @@ import {
 const Wrapper = styled.div`
   border-radius: 5px;
   width: 250px;
+  @media (max-width: 1400px) {
+    width: 200px;
+  }
 `;
 const ButtonSearch = styled.button`
   width: 100%;
@@ -32,7 +35,11 @@ const ButtonSearch = styled.button`
 const Information = styled.div`
   padding: 8px;
 `;
-const Title = styled.h3``;
+const Title = styled.h3`
+  @media (max-width: 1400px) {
+    font-size: 14px;
+  }
+`;
 const SubTitle = styled.h5`
   color: red;
 `;
@@ -41,6 +48,9 @@ const List = styled.ul`
 `;
 const Item = styled.li`
   font-weight: 500;
+  @media (max-width: 1400px) {
+    font-size: 12px;
+  }
 `;
 const ItemBase = styled.span``;
 const ItemResponse = styled.span`

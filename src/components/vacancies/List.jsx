@@ -17,6 +17,9 @@ const Wrapper = styled.div`
   /* Отстпу справа - размер sidebar */
   padding-right: 250px;
   margin-left: 16px;
+  @media (max-width: 1400px) {
+    padding-right: 200px;
+  }
 `;
 
 const ListWparrer = styled.ul`

@@ -5,8 +5,13 @@ import { message } from 'antd';
 
 class Queries {
   constructor() {
+    // master
+    // this.url_api_hh = 'https://api.hh.ru';
+    // this.url_backend = 'https://new-hh.herokuapp.com/';
+    // dev
     this.url_api_hh = 'https://api.hh.ru';
-    this.url_backend = 'https://new-hh.herokuapp.com/';
+    this.url_backend = 'http://localhost:8080';
+
     axios.interceptors.response.use(this.handleSuccess, this.handleError);
   }
 

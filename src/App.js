@@ -32,7 +32,7 @@ const App = () => {
       dispatch(fetchUserInfoApi({ accessToken }));
       dispatch(fetchUserResumeApi({ accessToken }));
     }
-
+    // Если залогинены, то при размонтировании отчищаем токен из бд
     return () => queries.disconnect();
   }, [accessToken]);
 
