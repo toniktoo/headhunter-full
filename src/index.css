@@ -14,13 +14,13 @@ code {
 
 /* В модалке вакансии убираем отступы( приходит html с сервера) */
 .hRBsWH * {
-  font-size: 14px;
+  font-size: 12px;
   margin: 0;
 }
 
 @media (max-width: 1400px) {
   .hRBsWH * {
-    font-size: 12px;
+    font-size: 10px;
     margin: 0;
   }
 }
